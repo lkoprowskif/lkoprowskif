@@ -1,4 +1,4 @@
-<h1 align="center">Larissa Koprowski Ferreira</h1>
+<h1 align="center">Larissa Koprowski</h1>
 
 ###
 
